@@ -427,6 +427,12 @@ Natural Complementary Science
 
 ■関連リンク
 
+ASIの価値基準―自然法則（宇宙の普遍的法則）  
+https://note.com/inchacomusho/n/n26166f6654d2
+
+ASI Value Systems and Objective Functions  
+https://github.com/InchaComisho/ASI-Value-Systems-and-Objective-Functions
+
 AGIの価値基準―自然法則（宇宙の普遍的法則）  
 https://note.com/inchacomusho/n/nc35ec9442865
 
